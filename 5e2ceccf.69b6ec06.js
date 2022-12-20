@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{74:function(o){o.exports=JSON.parse('{"allTagsPath":"/xviz-docs/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/xviz-docs/blog/tags/hello"}')}}]);
